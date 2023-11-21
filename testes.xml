@@ -8,7 +8,7 @@ testes
 <members>
 <member name="T:testes.My.Resources.Resources">
 <summary>
-  A strongly-typed resource class, for looking up localized strings, etc.
+  A strongly-typed resource class, for looking up localfized strings, etc.
 </summary>
 </member>
 <member name="P:testes.My.Resources.Resources.ResourceManager">
